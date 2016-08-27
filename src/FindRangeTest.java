@@ -105,7 +105,6 @@ public class FindRangeTest {
 		);
 	}
 
-	@Ignore
 	@Test
 	public void level0ExtraCreditTestNonNumeric1() {
 		runTest(
@@ -130,7 +129,6 @@ public class FindRangeTest {
 		);
 	}
 
-	@Ignore
 	@Test
 	public void level0ExtraCreditTestNonNumeric2() {
 		runTest(
@@ -148,7 +146,7 @@ public class FindRangeTest {
 		);
 	}
 
-	@Ignore
+
 	@Test
 	public void level1ExtraCreditTestSum1() {
 		runTest(
@@ -168,7 +166,7 @@ public class FindRangeTest {
 		);
 	}
 
-	@Ignore
+
 	@Test
 	public void level1ExtraCreditTestSum2() {
 		runTest(
@@ -189,7 +187,7 @@ public class FindRangeTest {
 		);
 	}
 
-	@Ignore
+	
 	@Test
 	public void level1ExtraCreditTestMean1() {
 		runTest(
@@ -209,7 +207,7 @@ public class FindRangeTest {
 		);
 	}
 
-	@Ignore
+
 	@Test
 	public void level1ExtraCreditTestMean2() {
 		runTest(
