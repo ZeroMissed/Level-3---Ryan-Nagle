@@ -3,7 +3,7 @@ public class CookieOrder {
 	private String variety;
 	private int numBoxes;
 	public CookieOrder(String variety, int numBoxes) {
-		super();
+		super(); 
 		this.numBoxes = numBoxes;
 		this.variety = variety;
 	}
