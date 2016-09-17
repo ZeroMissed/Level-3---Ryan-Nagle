@@ -228,7 +228,6 @@ public class FindRangeTest {
 		);
 	}
 
-	@Ignore
 	@Test
 	public void level1ExtraCreditTestMode1() {
 		runTest(
@@ -248,7 +247,6 @@ public class FindRangeTest {
 		);
 	}
 
-	@Ignore
 	@Test
 	public void level1ExtraCreditTestMode2() {
 		runTest(
